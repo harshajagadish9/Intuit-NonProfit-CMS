@@ -1,0 +1,19 @@
+{
+  "name": "Intuit-NonProfit-CMS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshajagadish9/Intuit-NonProfit-CMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshajagadish9/Intuit-NonProfit-CMS/issues"
+  },
+  "homepage": "https://github.com/harshajagadish9/Intuit-NonProfit-CMS"
+}
